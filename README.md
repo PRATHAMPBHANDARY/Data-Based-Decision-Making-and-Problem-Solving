@@ -283,21 +283,6 @@ This research concludes that successful implementation of DBDM requires:
 
 As businesses continue evolving in the era of AI and digital transformation, data-driven thinking will remain central to sustainable organizational growth and success.
 
-
----
-
-## Technologies and Concepts Referenced
-
-* Microsoft Excel
-* SQL
-* Power BI
-* Python
-* Business Intelligence
-* Machine Learning
-* Data Visualization
-* Predictive Analytics
-* Dashboard Reporting
-
 ---
 
 ## References
